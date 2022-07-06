@@ -8,6 +8,7 @@
     "startup": "before",
     "boot": "auto",
     "homeassistant_api": true,
+    "init": false,
     "options": {
         "fimpserver": "cube.home",
         "fimpusername": "mqttuser",
