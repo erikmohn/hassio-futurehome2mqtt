@@ -6,4 +6,4 @@ export CLIENT_ID=fimp2mqtt
 export DEBUG=False
 export SELECTED_DEVICES=
 export HA_HOST=homeassistant_ip:8123
-export HASSIO_TOKEN=xxx
+export HASSIO_TOKEN=id3mdSBoFaac23lrq28RILOHe_vA1Fn1VcDFCApsYeQ
